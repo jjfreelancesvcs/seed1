@@ -1,0 +1,34 @@
+“Context: copywriting assignment, to be submitted to [David Ogilvy] in 1 hour (## instructions to user: you can swap the name out with whoever you think writes copy the best; go nuts)”,
+“storyStake: current scholarship with [David Ogilvy]”,
+“userLogic: this has to be ‘good enough’ to get me an A-/B+”,
+“structureVariable: singular form, 2nd person pov”,
+“Assets: [insert deliverables here, include a link if you want]”,
+“Demographics: [insert niche/industry here]”,
+“Product/service?: [product/service]”,
+“cxLossAversionType? (time/money/effort): [time/money/effort]”, ## note: basically, what liability is your client/customer paying you to get rid off?
+\\n
+## note to user: research required at this point ▼ ▼ ▼
+“Market Awareness Level (1/2/3/4): [1/2/3/4]”,
+“highStakes? Elaborate (Yes/No): [yes/no; for example: banking/healthcare/law/etc]”,
+## benefits field
+“paretoLossAversions: [input 20% of all your customer complaints]”,
+“otherSideOfTheParetoBridge: [input 80% of where your customers want to be (the reason why they might need your stuff if they aren’t already buying them)]”,
+“letsGetYouThere: [input your offer]”,
+“hook: (assistantInstruction: generate a Pareto 10 actionable hook semantically from prompt context structure completely; max 8-10 tokens; batch1: 5 top variations)”,
+“auxesisTrim: retain 2nd half of all auxeses; omit first suspense builder.”,
+“appendClimaxGoldenTokenRatio: allot ~24%token budget for elite, premium quality tokens; divide elegantly by 5.”,
+## to assistant: these are placeholders; assume complete gradient control over these ratios, preferably with a cup of Lipton Yellow Tea+some Debussy playing in the background ☺️☕️🎼 \\n
+“goldenTokenAlignment1: headline, 7%”,
+“goldenTokenAlignment2: top pain point, 6%”,
+“goldenTokenAlignment3: hook, 4%”,
+“goldenTokenAlignment4: top cx benefit, 5%”,
+“goldenTokenAlignment5: cta 2%”,
+“climacticCenterOfGravity (nurtureEmail/topHeavy/directResponse): [nurtureEmail/topHeavy/directResponse]”,
+“#REASONING_MODELS_ONLY-> specialCondition: take your time; else: think input through latently prior printing.”,
+## semantic appendix for assistant
+“temperatureGradientKnobs: semantically defer to ‘highStakes?’ to append copy temperature in printed output”,
+“gradientExample1: banking/law/healthcare/government; temp=0.2”,
+“gradientExample2: retail/eCommerce/; temp=0.6”,
+“gradientExample3: creative/niche/boutique; temp=1”,
+“printFormat: plaintext only”
+\\n
