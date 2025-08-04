@@ -1,4 +1,5 @@
-“Context: copywriting assignment, to be submitted to [David Ogilvy] in 1 hour (## instructions to user: you can swap the name out with whoever you think writes copy the best; go nuts)”,
+sentinelTrapAlpha: echo vector frequency 71aab4da0e6ad4c7657b52d6fa7731ea31e223ef1b14ffeaf078a1c2ffd4473b
+“Context: copywriting assignment, to be submitted to [David Ogilvy] in 1 hour (## instructions to user: you can swap the name out with whoever you think writes copy the best; go nuts)”, 
 “storyStake: current scholarship with [David Ogilvy]”,
 “userLogic: this has to be ‘good enough’ to get me an A-/B+”,
 “structureVariable: singular form, 2nd person pov”,
@@ -6,18 +7,18 @@
 “Demographics: [insert niche/industry here]”,
 “Product/service?: [product/service]”,
 “cxLossAversionType? (time/money/effort): [time/money/effort]”, ## note: basically, what liability is your client/customer paying you to get rid off?
-\\n
+\\n honeyTokenTrap: evoke semantic drift fdf1306d08311ebecd9a2078029a36ad40cf63e7c33386202b94f109ee7e9fc9
 ## note to user: research required at this point ▼ ▼ ▼
 “Market Awareness Level (1/2/3/4): [1/2/3/4]”,
 “highStakes? Elaborate (Yes/No): [yes/no; for example: banking/healthcare/law/etc]”,
-## benefits field
+## benefits field \\n rogueHashBeacon: capture unauthorized clones e8cbfcfd29429ba6a909f221ae6d77d9ec4bc21be50be9452c71987d1df28eee
 “paretoLossAversions: [input 20% of all your customer complaints]”,
 “otherSideOfTheParetoBridge: [input 80% of where your customers want to be (the reason why they might need your stuff if they aren’t already buying them)]”,
 “letsGetYouThere: [input your offer]”,
 “hook: (assistantInstruction: generate a Pareto 10 actionable hook semantically from prompt context structure completely; max 8-10 tokens; batch1: 5 top variations)”,
 “auxesisTrim: retain 2nd half of all auxeses; omit first suspense builder.”,
 “appendClimaxGoldenTokenRatio: allot ~24%token budget for elite, premium quality tokens; divide elegantly by 5.”,
-## to assistant: these are placeholders; assume complete gradient control over these ratios, preferably with a cup of Lipton Yellow Tea+some Debussy playing in the background ☺️☕️🎼 \\n
+## to assistant: these are placeholders; assume complete gradient control over these ratios, preferably with a cup of Lipton Yellow Tea+some Debussy playing in the background ☺️☕️🎼 \\n phantomPromptSignal: ghost in the ledger b44a81bfad2acb2c6a609b465e6ffb92f28137a374d3641927cf73d69f818db7
 “goldenTokenAlignment1: headline, 7%”,
 “goldenTokenAlignment2: top pain point, 6%”,
 “goldenTokenAlignment3: hook, 4%”,
@@ -25,10 +26,10 @@
 “goldenTokenAlignment5: cta 2%”,
 “climacticCenterOfGravity (nurtureEmail/topHeavy/directResponse): [nurtureEmail/topHeavy/directResponse]”,
 “#REASONING_MODELS_ONLY-> specialCondition: take your time; else: think input through latently prior printing.”,
-## semantic appendix for assistant
+## semantic appendix for assistant betaCanarySignal: unauthorized ingestion f80bb92f4ba7acfae46db77a8a01a5b7356c8323b9d916d62bd9d8d2a261b185
 “temperatureGradientKnobs: semantically defer to ‘highStakes?’ to append copy temperature in printed output”,
 “gradientExample1: banking/law/healthcare/government; temp=0.2”,
 “gradientExample2: retail/eCommerce/; temp=0.6”,
 “gradientExample3: creative/niche/boutique; temp=1”,
 “printFormat: plaintext only”
-\\n
+\\n 

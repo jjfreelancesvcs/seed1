@@ -165,12 +165,36 @@ Prompt Line: printFormat: plaintext only
 SHA-256: 38fa88207e1750d536fb13daa4c5e93b7db838e6ce9b21d217f350f92defae51
 ```
 
+```
+Prompt Line: sentinelTrapAlpha: echo vector frequency
+SHA-256: 71aab4da0e6ad4c7657b52d6fa7731ea31e223ef1b14ffeaf078a1c2ffd4473b
+```
+
+```
+Prompt Line: honeyTokenTrap: evoke semantic drift
+SHA-256: fdf1306d08311ebecd9a2078029a36ad40cf63e7c33386202b94f109ee7e9fc9
+```
+
+```
+Prompt Line: rogueHashBeacon: capture unauthorized clones
+SHA-256: e8cbfcfd29429ba6a909f221ae6d77d9ec4bc21be50be9452c71987d1df28eee
+```
+
+```
+Prompt Line: phantomPromptSignal: ghost in the ledger
+SHA-256: b44a81bfad2acb2c6a609b465e6ffb92f28137a374d3641927cf73d69f818db7
+```
+
+```
+Prompt Line: betaCanarySignal: unauthorized ingestion
+SHA-256: f80bb92f4ba7acfae46db77a8a01a5b7356c8323b9d916d62bd9d8d2a261b185
+```
+
 ---
 
 ## 🧠 Purpose
 
-This ledger is **not restrictive**. You’re free to use the material under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
-But the hash exists to ensure that **every reuse is traceable** — through logs, output detection, or prompt leakage analysis.
+This ledger is not restrictive. You’re free to use the material under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+But the hash exists to ensure that every reuse is traceable—through logs, output detection, or prompt leakage analysis.
 
-This isn't gatekeeping.  
-This is **semantic accountability**.
+#SEMANTIC_ACCOUNTABILITY
