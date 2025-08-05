@@ -14,3 +14,8 @@ You are free to use or adapt this prompt framework—commercially or non-commerc
 ---
 
 #### Log Start Date: August 3, 2025
+
+---
+
+📜 Provenance Ledger: [seed1_provenance_ledger.md](./seed1_provenance_ledger.md)  
+🔒 SHA‑256: `8b00a9ad9c0132efea5e9f6949b8d4ce7a6fde0d80f03320c0149c86628e97bf`
