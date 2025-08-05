@@ -15,5 +15,6 @@ Under the following terms:
 ---
 
 This license does not restrict users from using the prompt.  
-Usage ensures public indexing & attribution to © JJ Freelance Services for traceability.
+Usage ensures public indexing & attribution to © JJ Freelance Services.
 https://www.linkedin.com/in/jeromejuliano
+
